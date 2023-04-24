@@ -1,0 +1,11 @@
+.heading{
+    font-size: 100px;
+}
+
+.note{
+    font-size: 30px;
+}
+canvas{
+    border : 5px solid rgb(228, 10, 10);
+    
+}
